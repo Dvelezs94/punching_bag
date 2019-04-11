@@ -1,4 +1,8 @@
-Punching Bag [![Build Status](https://travis-ci.org/biola/punching_bag.png?branch=master)](https://travis-ci.org/biola/punching_bag)
+
+
+Punching Bag
+
+This is a Fork from the project [punching_bag](https://github.com/biola/punching_bag) made by [Biola](https://github.com/biola), This was made to fix the issue with the rake punching_bag:combine issue. ref: https://github.com/biola/punching_bag/issues/27
 ============
 Punching Bag is a hit tracking plugin for Ruby on Rails that specializes in simple trending.
 
